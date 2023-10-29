@@ -1,7 +1,8 @@
 node_modules
 .DS_Store
-*.png
+ .png
 *.gif
 *.jpg
 *.tgz
 test/cookies-file.txt
+#
